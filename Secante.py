@@ -34,7 +34,7 @@ def secante(f, x0, x1, tol=1e-8, max_iter=50):
     return x1
 
 
-# ── Parámetros ──────────────────────────────────────────
+#Parametros
 x0 = 1.0
 x1 = 2.0
 tolerancia = 1e-8
